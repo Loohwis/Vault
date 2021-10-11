@@ -16,4 +16,4 @@ The Title stays consistent with the article "THE" maintaining a level cap height
 
 ![Using the blood of Leno and Rosemary LaBianca, Manson Family members write "death to pigs" on the wall](../uploads/pigs.jpg)
 
-As unsettling as it is the blood of both home owners are used as a form of speech by the
+As unsettling as it is the blood of both home owners are used as a form of speech by the Family, contrasting to the book, the font used appears to contain minor swashes rather then a uniform. The Cap Height seems to aim for a level amount but the pictures shows otherwise, having varying cap heights and almost "rushed" writing conveys the rush and possible thrill they experienced with the murders, it quite possibly shows the utter savagery and murderous intent that is within each member.
