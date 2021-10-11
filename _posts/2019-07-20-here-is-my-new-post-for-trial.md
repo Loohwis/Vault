@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: Charles Manson
 date: 2020-06-24 17:50
-image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+image: ../uploads/merlin_130185716_76fe927d-cb54-4e4e-97cc-6f7db7e5ec06-superjumbo.jpeg
+caption: ""
 ---
 
 **Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
