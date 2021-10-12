@@ -2,6 +2,7 @@
 layout: post
 title: JORDAN TERRELL CARTER
 date: 2021-10-12T20:49:25.354Z
+image: ../uploads/carticult.jpg
 title_color: "#ffffff"
 comments: false
 ---
