@@ -8,6 +8,6 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 i wrote this
