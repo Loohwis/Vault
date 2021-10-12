@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: "About "
+title: CULTURE
 image: ../uploads/963179.jpg
 subtitle: ""
 permalink: /about/
