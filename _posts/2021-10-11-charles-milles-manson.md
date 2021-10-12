@@ -16,4 +16,10 @@ The Title stays consistent with the article "THE" maintaining a level cap height
 
 ![Using the blood of Leno and Rosemary LaBianca, Manson Family members write "death to pigs" on the wall](../uploads/pigs.jpg)
 
-As unsettling as it is the blood of both home owners are used as a form of speech by the Family, contrasting to the book, the font used appears to contain minor swashes rather then a uniform. The Cap Height seems to aim for a level amount but the pictures shows otherwise, having varying cap heights and almost "rushed" writing conveys the rush and possible thrill they experienced with the murders, it quite possibly shows the utter savagery and murderous intent that is within each member.
+As unsettling as it is the blood of both home owners are used as a form of speech by the Family, contrasting to the book, the font used appears to contain minor swashes rather then a uniform. The Cap Height seems to aim for a level amount but the pictures shows otherwise, having varying cap heights and almost "hasty" writing conveys the rush and possible thrill they experienced with the murders, it quite possibly shows the utter savagery and murderous intent that is within each member. Some use of Serif can be seen in both capital letters whilst incorporating the lowercase letter desenders on letters that shouldn't have any this is expected as there is no actual set structure to this typography.
+
+![Collection of books about Charles Manson](../uploads/best-books-movies-tv-about-the-manson-murders.png)
+
+The tripartite collection bare resemblance to the first book we covered, such as the first two books (Jeff Guinn and Tom O'Niel), here we can see an enlarged all capital word that differs from the rest of the title, both show to have a heavy weight and thickness with zero contrast thus spotlighting the word. Contrastingly, the third book (Dianne Lake) almost copies the writing of the blood stained wall, possibly giving off a more sinister vibe, this is reinforced with the oblique writing, rather than the normal roman typefaces which are upright.
+
+Interestingly, the second book seems to have "Charles Manson" as non capital, with a varying weight and the 'S' containing sharp beaks. This could present the reader three different interpretations/storytellings of Charles Manson and his infamous cult.
