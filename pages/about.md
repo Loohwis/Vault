@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About CultVault
-image: ../uploads/istockphoto-1280200884-170667a.jpg
+title: "About "
+image: ../uploads/963179.jpg
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
