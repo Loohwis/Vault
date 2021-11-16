@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jacques Berman Webster II
+title: JACQUES BERMAN WEBSTER II
 date: 2021-11-16T16:57:15.671Z
 image: ../uploads/travis-scott-black-nw-hite.jpg
 title_color: "#ffffff"
