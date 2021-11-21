@@ -1,0 +1,128 @@
+body {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: grey;
+    margin: 0;
+   
+   }
+   
+   h1 {
+    text-decoration: underline;
+    font-weight: 300;
+    background-color: grey;
+    padding: 16px;
+   
+   }
+   
+   h2 {
+    text-decoration: underline;
+    font-weight: 200;
+   }
+   
+   img {
+    width: 300px;
+    border: groove;
+   }
+   
+  
+
+   
+   .SHORTCUT{
+    color: white;
+    background-color: grey;
+    padding: 16px;
+   
+   }
+   
+   .info {
+    border: 4px dotted grey;
+    margin: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 18px;
+    flex-basis: fill;
+   
+   }
+
+   main {
+    width:75%;
+    border: solid 2px grey;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+   }
+   
+   h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: grey;
+   
+   }
+   
+   h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: grey;
+   
+   }
+   
+   h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: grey;
+   
+   }
+   
+   h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: grey;
+   
+   }
+   
+   h7 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: grey;
+   
+   }
+   
+   h8 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: grey;
+   
+   }
+   
+   @media screen and (max-width:800px) {
+    body {
+    font-size: 90%;
+    }
+   
+    main {
+    width: 90%;
+    }
+   
+    .SHORTCUT{
+    flex-basis: 100%;
+    }
+   }
+   
+   @media screen and (max-width:500px) {
+    main {
+    width: 100%;
+    }
+    .info {
+    flex-basis: 100%;
+    }
+   
+    body {
+    font-size: 80%;
+    }
+   
+   
+   }
