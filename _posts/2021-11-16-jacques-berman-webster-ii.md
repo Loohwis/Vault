@@ -10,7 +10,7 @@ Jacques Berman Webster II, also known as '*TRAVIS SCOTT*' is an American rapper.
 
 ![One of many Alias' that Travis Scott uses.](../uploads/cactus-jack-symbol.png "'CACTUS JACK'")
 
-Let's start with the top then work our way down. To start with, the 'C' has a very large aperture and has a non-existing beak at the tips of each area. The weight of the character seems light, in actual fact it seems to be light throughout the whole lettering with only minor instances of a 'heavier' weight. Moving onto the 'A' of the logo, it appears to be missing a foot on the right side of the stroke, but once again there are no signs of serifs nor any sings of swashes.
+Let's start with the top then work our way down. To start with, the 'C' has a very large aperture and has a non-existing beak at the tips of each area. The weight of the character seems light, in actual fact it seems to be light throughout the whole lettering with only minor instances of a 'heavier' weight. Moving onto the 'A' of the logo, it appears to be missing a foot on the right side of the stroke, but once again there are no signs of serifs nor any sings of swashes. Moving onto the 'JACK' part of the logo, the arc (curved part of a letterform leading into a straight stem) seems to not lead to a point and is more rounded, the arms (strokes on either end of the t) are again inconsistent and the left seems to be slightly heavier than that of the one on the right. The 'A' is so deformed that it seems to lack a counter (the inside gap in the middle of a letter usually 'P, A, B'). The letter 'K' in Jack also seems to have two contrasting legs one being rounded and the other leading to a point.
 
 ![A poster for one of Travis Scott's concerts.](../uploads/travis-scott.jpg)
 
