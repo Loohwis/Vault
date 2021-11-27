@@ -2,7 +2,7 @@
 layout: post
 title: JAMES WARREN JONES
 date: 2021-11-27T17:55:37.352Z
-image: ../uploads/james-warren-jones.jpg
+image: ../uploads/jimjones.jpg
 title_color: "#ffffff"
 comments: false
 ---
