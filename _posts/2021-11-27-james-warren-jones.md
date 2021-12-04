@@ -10,4 +10,8 @@ comments: false
 
 !['CULT CITY' A book detailing the atrocities of Jonestown.](../uploads/jimjones-cult-city.jpg)
 
-From observation, there are no signs of embellishment's in the fully capitalised title 'CULT CITY', the "serifless" yet massive title could possible portray the true character of Jim Jones, one that is a big and prominent figure (hence the large font-size) but has no true love for his city (thus the serifs that could possibly show beauty or enhance the life of 'CULT CITY' aren't used).
+From observation, there are no signs of embellishment's in the fully capitalised title 'CULT CITY', the "serifless" yet massive title could possible portray the true character of Jim Jones, one that is a big and prominent figure (hence the large font-size) but has no true love for his city (thus the serifs that could possibly show beauty or enhance the life of 'CULT CITY' aren't used). The font used for the title radiates an 80's style of retro, neon lights that scream the city.
+
+![A Documentary depicting the scenes of Jonestown](../uploads/jonestownposter.jpg)
+
+Initially, the most obvious feature about this typographic is the split-coloured title, the orange (JONES) to yellow (TOWN) could be alluding to the "darker" operations concealed in a visage of a friendly town. The weight of the title also stays consistent with only minor changes (less weight) on the downstrokes of 'N' and 'W', similarly to previous articles it conveys conformity, uniformity and overall totalitarian power.
