@@ -2,7 +2,7 @@
 layout: post
 title: WARREN STEED JEFFS
 date: 2021-12-07T14:26:04.529Z
-image: ../uploads/polygamous-marriage.jpg
+image: ../uploads/polygamous-marriage-modified.jpg
 title_color: "#ffffff"
 comments: false
 ---
