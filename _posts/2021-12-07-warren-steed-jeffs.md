@@ -2,7 +2,7 @@
 layout: post
 title: WARREN STEED JEFFS
 date: 2021-12-07T14:26:04.529Z
-image: ../uploads/warren-jeffsevil-modified.jpg
+image: ../uploads/warren-jeffsevil-2-modified.jpg
 title_color: "#ffffff"
 comments: false
 ---
