@@ -6,4 +6,4 @@ image: ../uploads/lede-marshall-modified.jpg
 title_color: "#ffffff"
 comments: false
 ---
-marshall
+**Marshall Heff Applewhite Jr.** also known as '*Do',* was an American cult leader who co-founded what became known as the *Heaven's Gate* religious group and organized their mass suicide in 1997. Claiming the lives of 39 people.
